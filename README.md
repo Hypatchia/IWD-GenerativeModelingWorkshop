@@ -1,2 +1,2 @@
 # IWD-GenerativeModelingWorkshop
-This is repo contains the code,ressources and slides to the IWD Hackathon by GDG &amp; WTM ALGIERS
+This repo contains the code,resources and slides to the workshop entitled "Introduction to Generative Modeling using GANs" held at IWD Hackathon by GDG and WTM ALGIERS.
