@@ -5,6 +5,7 @@ This repo contains the slides to the workshop entitled "Introduction to Generati
 
 ### Description:
 - This repo contains the slides to the workshop entitled "Introduction to Generative Modeling using GANs" held by me at IWD Hackathon session 2023 by https://www.gdgalgiers.com/ and WTM ALGIERS.
+
 ### About the Workshop
 This workshop is aimed at individuals who want to explore the world of generative modeling. The primary goals are:
 - Understanding the Fundamentals of Data Science and Machine Learning.
